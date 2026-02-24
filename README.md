@@ -15,3 +15,4 @@ sentiment analysis and keyword extraction.
 - notebooks/ : experiments
 - src/ : source code
 - models/ : trained models
+- predict output
